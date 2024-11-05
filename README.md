@@ -3,6 +3,22 @@ zad.1 Napisać testy w playwright do dostarczonej aplikacji todo-app-template
 
 Na początku otagowałem elementy po stronie frontu data-testid
 
+
+raport
+
+aplikacja zawiera błąd, więc testy failed są oczekiwane
+
+![image](https://github.com/user-attachments/assets/8f86788f-f968-4846-ba33-ad40479d4c27)
+
+Podczas wywoływania testów czasami napotykam na błędy z połączeniem z serwerem http://localhost:5000/todos
+aplikacja przestaje działać, ![image](https://github.com/user-attachments/assets/9977bb56-41ee-4d74-8a14-8ce5980b6874)
+
+![image](https://github.com/user-attachments/assets/4eb144f2-0867-4e20-bd87-8f843ba6febc)
+
+
+
+
+
 Przypadki Testowe
 1. Dodawanie Zadań (addTodo)
 W tej sekcji testów sprawdzam dodawanie zadań o różnym typie i ich wyświetlanie na liście.
@@ -81,16 +97,3 @@ Po zakończeniu wszystkich testów:
 Wywołuje apiHelper.clearTodos, aby usunąć wszystkie zadania.
 
 Weryfikuje, że endpoint jest pusty po wyczyszczeniu, co zapewnia brak pozostawionych danych po testach
-
-
-raport
-
-aplikacja zawiera błąd, więc testy failed są oczekiwane
-
-![image](https://github.com/user-attachments/assets/8f86788f-f968-4846-ba33-ad40479d4c27)
-
-Podczas wywoływania testów czasami napotykam na błędy z połączeniem z serwerem http://localhost:5000/todos
-aplikacja przestaje działać, ![image](https://github.com/user-attachments/assets/9977bb56-41ee-4d74-8a14-8ce5980b6874)
-
-![image](https://github.com/user-attachments/assets/4eb144f2-0867-4e20-bd87-8f843ba6febc)
-
