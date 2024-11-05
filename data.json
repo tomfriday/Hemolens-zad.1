@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "Kup mleko",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Posprzątaj",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "todos": {
+    "longTask": {
+      "title": "This is a very long task name for testing purposes to check"
+    },
+    "shortTask": {
+      "title": "Short"
+    },
+    "specialCharsTask": {
+      "title": "Task with special characters !@#$%^&*()_+[]{}|;':,.<>?/~"
+    },
+    "numericTask": {
+      "title": "1234567890"
+    },
+    "NormalTasks": {
+      "NormalTask1": {
+        "title": "Kup mleko"
+      },
+      "NormalTask2": {
+        "title": "Posprzątaj"
+      },
+      "NormalTask3": {
+        "title": "Wynieś śmieci"
+      },
+      "NormalTask4": {
+        "title": "Zrób zakupy"
+      },
+      "NormalTask5": {
+        "title": "Zaplanuj spotkanie"
+      },
+      "NormalTask6": {
+        "title": "Ugotuj obiad"
+      },
+      "NormalTask7": {
+        "title": "Przeczytaj książkę"
+      },
+      "NormalTask8": {
+        "title": "Pojedź na rowerze"
+      },
+      "NormalTask9": {
+        "title": "Zadzwoń do mamy"
+      },
+      "NormalTask10": {
+        "title": "Wyprowadź psa"
+      },
+      "NormalTask11": {
+        "title": "Zamów pizzę"
+      },
+      "NormalTask12": {
+        "title": "Napisz raport"
+      },
+      "NormalTask13": {
+        "title": "Odpocznij"
+      },
+      "NormalTask14": {
+        "title": "Pranie"
+      },
+      "NormalTask15": {
+        "title": "Wyprasuj koszule"
+      },
+      "NormalTask16": {
+        "title": "Oglądaj film"
+      },
+      "NormalTask17": {
+        "title": "Zrób kawę"
+      },
+      "NormalTask18": {
+        "title": "Idź na spacer"
+      },
+      "NormalTask19": {
+        "title": "Podlej kwiaty"
+      },
+      "NormalTask20": {
+        "title": "Napisz e-mail"
+      }
+    }
+  }
+}
