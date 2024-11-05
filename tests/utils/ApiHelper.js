@@ -11,7 +11,7 @@ class ApiHelper {
     if (todos.length > 0) {
       for (const todo of todos) {
         // dodaje opoźnienie, ze wztgledu na problemy z error connecition problems
-        await new Promise((resolve) => setTimeout(resolve, 300))
+        await new Promise((resolve) => setTimeout(resolve, 500))
         await this.deleteTodoById(todo.id) // Usuwanie każdego zadania po ID
       }
       console.log('Endpoint cleaned up.')
