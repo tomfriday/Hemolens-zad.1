@@ -4,6 +4,7 @@ zad.1 Napisać testy w playwright do dostarczonej aplikacji todo-app-template
 Na początku otagowałem elementy po stronie frontu data-testid
 
 npm start
+
 npx playwright test --headed --debug
 
 raport
