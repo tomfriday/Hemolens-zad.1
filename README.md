@@ -41,7 +41,7 @@ Dodanie wielu zadań i sprawdzenie kolejności: Dodaje kilka zadań i weryfikuje
 
 Dodanie tego samego zadania dwukrotnie: Dodaje to samo zadanie dwa razy i sprawdza, że oba są widoczne na liście.
 
-Dodanie normalnych zadań i weryfikacja widoczności: Dodaje zadania z określonej kategorii i weryfikuje ich widoczność oraz kolejność.
+Dodanie 'normalnych zadań' i weryfikacja widoczności: Dodaje zadania z określonej kategorii i weryfikuje ich widoczność oraz kolejność.
 
 2. Oznaczanie Zadania Jako Ukończone (completeTodo)
    
@@ -65,7 +65,7 @@ Usunięcie ukończonego zadania: Sprawdza, czy zadanie oznaczone jako ukończone
 
 Usunięcie zadania nieukończonego: Sprawdza, czy nieukończone zadanie zostało usunięte.
 
-Usunięcie wielu zadań z mieszanym statusem ukończenia: Losowo oznacza zadania jako ukończone lub nieukończone i sprawdza ich usunięcie.
+Usunięcie wielu zadań z różnymi statusami ukończenia: Oznacza zadania jako ukończone lub nieukończone i sprawdza ich usunięcie.
 
 Usunięcie zadania i weryfikacja po przeładowaniu strony: Sprawdza, czy zadanie nie pojawia się ponownie po przeładowaniu strony.
 
@@ -90,7 +90,7 @@ test.beforeEach
 
 Przed każdym testem:
 
-Oczyszcza endpoint z istniejących zadań za pomocą apiHelper.clearTodos. (prodcz testów API)
+Oczyszcza endpoint z istniejących zadań za pomocą apiHelper.clearTodos. 
 
 Dodaje zadania testowe za pomocą apiHelper.addTodo.
 
