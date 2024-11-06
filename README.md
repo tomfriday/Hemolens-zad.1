@@ -13,7 +13,7 @@ aplikacja zawiera błąd, więc testy failed są oczekiwane
 
 ![image](https://github.com/user-attachments/assets/8f86788f-f968-4846-ba33-ad40479d4c27)
 
-Podczas wywoływania testów czasami napotykam na błędy z połączeniem z serwerem http://localhost:5000/todos
+Podczas wywoływania testów czasami napotykam na błędy z połączeniem z serwerem http://localhost:3000/todos
 aplikacja przestaje działać, ![image](https://github.com/user-attachments/assets/9977bb56-41ee-4d74-8a14-8ce5980b6874)
 
 ![image](https://github.com/user-attachments/assets/4eb144f2-0867-4e20-bd87-8f843ba6febc)
@@ -21,6 +21,8 @@ aplikacja przestaje działać, ![image](https://github.com/user-attachments/asse
 
 Możnaby, przed testami wdrożyć sprawdzanie czy port 3000 jest dostepny i jezeli nie (wykrzaczyl sie) to go uruchamiac,
 ale nie wiem czy az tak nalezalo sie rozdrabniac w tym zadaniu
+
+
 
 
 Przypadki Testowe
