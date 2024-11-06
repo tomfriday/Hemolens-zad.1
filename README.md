@@ -19,10 +19,6 @@ aplikacja przestaje działać, ![image](https://github.com/user-attachments/asse
 ![image](https://github.com/user-attachments/assets/4eb144f2-0867-4e20-bd87-8f843ba6febc)
 
 
-Możnaby, przed testami wdrożyć sprawdzanie czy port 3000 jest dostepny i jezeli nie (wykrzaczyl sie) to go uruchamiac,
-ale nie wiem czy az tak nalezalo sie rozdrabniac w tym zadaniu
-
-
 
 
 Przypadki Testowe
